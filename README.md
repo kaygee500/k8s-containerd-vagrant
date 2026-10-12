@@ -1,5 +1,6 @@
-
 # Vagrantfile and Scripts to Automate Kubernetes Setup on containerd runtime
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkaygee500%2Fk8s-containerd-vagrant.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkaygee500%2Fk8s-containerd-vagrant?ref=badge_shield)
+
 
 ## Prerequisites
 1. You need to have vagrant installed https://developer.hashicorp.com/vagrant/downloads
@@ -73,3 +74,7 @@ vagrant up
 vagrant destroy -f
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkaygee500%2Fk8s-containerd-vagrant.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkaygee500%2Fk8s-containerd-vagrant?ref=badge_large)
